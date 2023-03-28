@@ -12,3 +12,4 @@
 2023-03-27/12:17:47		Tables created successfully!!
 2023-03-27/12:21:37		Error while creating table: table Good_Raw_Data already exists 
 2023-03-27/12:30:08		Tables created successfully!!
+2023-03-28/15:29:16		Tables created successfully!!
